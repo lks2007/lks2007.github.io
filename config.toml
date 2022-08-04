@@ -5,6 +5,13 @@ theme = "hugo-digital-garden-theme"
 themesdir = "themes"
 copyright = "Lukas Soigneux ©"
 
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
 
 [params]
   name = "Lukas Soigneux"

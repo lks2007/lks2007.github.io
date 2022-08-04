@@ -26,4 +26,13 @@
     {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
     <title>{{ $title }}</title>
     <meta name="description" content="{{ if .IsPage }}{{ .Summary }}{{ else }}{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ end }}{{ end }}">
+    {{ hugo.Generator }}
+    {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
+    {{ $production := eq (getenv "HUGO_ENV") "production" | or (eq site.Params.env "production") }}
+    {{ $public := not .Params.private }}
+    {{ if and $production $public }}
+      <meta name="robots" content="index, follow">
+    {{ else }}
+      <meta name="robots" content="noindex, nofollow">
+    {{ end }}
 </head>
