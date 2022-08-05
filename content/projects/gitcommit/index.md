@@ -16,8 +16,8 @@ links:
 ## Why
 GitCommit is a project to get commit of repository 
 
-## Developpement
-Developpement is ending
+## Development
+Development is ending
 
 ## Technologies
 - Api

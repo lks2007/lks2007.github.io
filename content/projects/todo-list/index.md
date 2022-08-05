@@ -16,8 +16,8 @@ links:
 ## Why
 This project was born when my uncle want to do discover to me the elixir langage
 
-## Developpement
-Developpement is ending
+## Development
+Development is ending
 
 ## Technologies
 - Elixir

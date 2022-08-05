@@ -16,8 +16,8 @@ links:
 ## Why
 Bot created for lupa website to respond of command sending by user who use "lupa django website"
 
-## Developpement
-Developpement is ending
+## Development
+Development is ending
 
 ## Technologies
 - Python

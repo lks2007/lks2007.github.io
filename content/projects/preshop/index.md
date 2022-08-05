@@ -18,8 +18,8 @@ It's a website to make a shopping list to buy in the market.
 It write in ``` go ``` and it hosting on github.
 Regulary we commit new release
 
-## Developpement
-This website again in developpement, we worked on.  
+## Development
+This website again in development, we worked on.  
 You can see it on github
 
 ## Technologies

@@ -15,7 +15,7 @@ enableRobotsTXT = true
 
 [params]
   name = "Lukas Soigneux"
-  description = "Developper living in France"
+  description = "Developer living in France"
   initials = "LS"
   googleAnalytics = ""
 

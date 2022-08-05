@@ -17,8 +17,8 @@ links:
 This project is an explorer write in ``` go ``` who work on terminal  
 Regulary we commit new release
 
-## Developpement
-This project is again in developpement, we worked on  
+## Development
+This project is again in development, we worked on  
 You can see it on github
 
 ## Technologies

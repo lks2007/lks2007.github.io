@@ -17,8 +17,8 @@ links:
 WebHost is a website to build website like wordpress or build server.  
 It use docker to launch it.
 
-## Developpement
-This website again in developpement, we worked on.  
+## Development
+This website again in development, we worked on.  
 You can see it on github
 
 ## Technologies

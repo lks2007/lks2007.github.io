@@ -18,8 +18,8 @@ links:
 This is a little project cli to learn to use ``` python ``` and ``` sqlite ```  
 It can use to select data in database or insert it
 
-## Developpement
-Developpement is ending
+## Development
+Development is ending
 
 ## Technologies
 - Python
