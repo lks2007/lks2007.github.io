@@ -4,7 +4,6 @@ User-agent: *
 Allow: /
 Sitemap: {{.Site.BaseURL}}/sitemap.xml
 
-Disallow:
 {{ else }}
-Disallow:
+Disallow: /
 {{ end }}
